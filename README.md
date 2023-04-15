@@ -1,2 +1,2 @@
 # feedly-purifier
- Removes Pro upsells from feedly.com
+Removes Feedly Pro upsells from feedly.com

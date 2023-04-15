@@ -1,0 +1,19 @@
+div[title="Feedly AI"]
+{
+    display: none !important;
+}
+
+div#topHeaderBarFX
+{
+    display: none !important;
+}
+
+button[aria-label="Track threats and topics using Feedly AI"],button[aria-label="Power Search"],button[aria-label="New Features"]
+{
+    display: none !important;
+}
+
+button[title="Share with teammates"]
+{
+    display: none !important;
+}
