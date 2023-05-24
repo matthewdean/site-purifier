@@ -1,0 +1,60 @@
+! Description: A list for your ad blocker to remove unecessary features from Feedly including paid upsells, third party sharing options, annotations, and recommendations
+! Homepage: https://github.com/matthewdean/feedly-purifier
+
+! Primary Navigation > Bot Icon
+feedly.com##button[aria-label="Track threats and topics using Feedly AI"]
+
+! Primary Navigation > Search Icon
+feedly.com##button[aria-label="Power Search"]
+
+! Primary Navigation > Rocket Ship Icon
+feedly.com##button[aria-label="New Features"]
+
+
+! Left Navigation > Annotated
+feedly.com##div[title="Annotated"]
+
+! Left Navigation > Feedly AI
+feedly.com##div[title="Feedly AI"]
+
+! Left Navigation > Integrations
+feedly.com##div[title="Integrations"]
+
+! Left Navigation > Favorites
+feedly.com##div.LeftnavHeading:has( > h3:has-text(Favorites))
+
+! Left Navigation > Today > Explore
+feedly.com##div.today div:has-text(Explore)
+
+! Top Header - contains solely an upgrade upsell
+feedly.com##div#topHeaderBarFX
+
+
+! Feed > Create Team Newsletter
+feedly.com##button[title="Create Team Newsletter"]
+
+! Feed > Create Team Newsletter
+feedly.com##button[title="Share with teammates"]
+
+! Feed > You might also like
+feedly.com##div:has( > div > h2:has-text(You might also like))
+
+! Feed > Entry Read Count
+! Entry Read Count
+feedly.com##span.EntryEngagement
+
+
+! Entry > Share Bar > Various Options
+! feedly.com##li.ShareBar__more-menu-action:not(:has-text(Read later))
+
+
+! Discover > Topics
+feedly.com##div.MultiSectionTopicStore
+
+
+! Today Subheader
+feedly.com##div.today > div > header > div > h1 > div:has-text(The insights you need to keep ahead)
+
+
+! Follow > Non-Website Sources
+feedly.com##div#feedlyPageFX > div:has( > div:has-text(Websites))
