@@ -1,4 +1,4 @@
-# feedly-purifier
+# rss-feed-reader-purifier
 A list for your ad blocker to remove unecessary features from Feedly including paid upsells, third party sharing options, annotations, and recommendations.
 
 ## Installation
