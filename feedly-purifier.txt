@@ -24,10 +24,10 @@ feedly.com##div[title="Integrations"]
 ! Left Navigation > Favorites
 feedly.com##div.LeftnavHeading:has( > h3:has-text(Favorites))
 
-! Left Navigation > Today > Explore
-feedly.com##div.today div:has-text(Explore)
+! Left Navigation > Today > Me, Explore
+feedly.com##div.today div:has( > div[role="button"]:has-text(Explore))
 
-! Top Header - contains solely an upgrade upsell
+! Top Header (contains solely an upgrade upsell)
 feedly.com##div#topHeaderBarFX
 
 
@@ -58,4 +58,4 @@ feedly.com##div.today > div > header > div > h1 > div:has-text(The insights you 
 
 
 ! Follow > Non-Website Sources
-feedly.com##div#feedlyPageFX > div:has( > div:has-text(Websites))
+feedly.com##div#feedlyPageFX > div:has( > div[role="button"]:has-text(Websites))
