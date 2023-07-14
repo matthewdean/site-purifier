@@ -1,5 +1,5 @@
 # site-purifier
-Remove unecessary features from websites you use
+Strip unecessary features from sites you use
 
 ## Filter Lists
 
