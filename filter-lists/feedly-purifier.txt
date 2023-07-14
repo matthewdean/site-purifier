@@ -1,6 +1,6 @@
 ! Title: Feedly Purifier
 ! Description: A list for your ad blocker to remove unecessary features from Feedly including paid upsells, third party sharing options, annotations, and recommendations
-! Homepage: https://github.com/matthewdean/rss-feed-reader-purifier
+! Homepage: https://github.com/matthewdean/site-purifier
 
 ! Primary Navigation > Bot Icon
 feedly.com##button[aria-label="Track threats and topics using Feedly AI"]
