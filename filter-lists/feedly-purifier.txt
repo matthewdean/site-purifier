@@ -59,3 +59,7 @@ feedly.com##div.today > div > header > div > h1 > div:has-text(The insights you 
 
 ! Follow > Non-Website Sources
 feedly.com##div#feedlyPageFX > div:has( > div[role="button"]:has-text(Websites))
+
+
+! Docked Popup Upsell
+feedly.com##div.StarFeatureDockedPopup
