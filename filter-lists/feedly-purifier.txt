@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/matthewdean/site-purifier
 
 ! Primary Navigation > Bot Icon
-feedly.com##button[aria-label="Track threats and topics using Feedly AI"]
+feedly.com##button[aria-label="Track threats and topics using AI Feeds"]
 
 ! Primary Navigation > Search Icon
 feedly.com##button[aria-label="Power Search"]
