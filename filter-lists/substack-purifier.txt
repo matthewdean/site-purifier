@@ -1,0 +1,6 @@
+! Title: Substack Purifier
+! Description: A list for your ad blocker to remove unecessary features from Substack including email subscription upsell
+! Homepage: https://github.com/matthewdean/site-purifier
+
+! Subscription Upsell
+substack.com##div.intro-popup
