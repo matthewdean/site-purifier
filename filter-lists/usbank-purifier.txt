@@ -1,0 +1,15 @@
+! Title: U.S. Bank Purifier
+! Description: A list for your ad blocker to remove unecessary features from U.S. Bank including 
+! Homepage: https://github.com/matthewdean/site-purifier
+
+! Dashboard > Promotional Banner Section
+usbank.com##div#usb-global-message-component
+
+! Dashboard > Cash Back Deals
+usbank.com##div#usb-cardlytics-offers
+
+! Dashboard > My Goals
+usbank.com##div.goals-summary
+
+! Dashboard > Loans, Lines and Leases Upsell
+usbank.com##div.act-tile:has(div[aria-labelledby="loanandleases"])
