@@ -4,3 +4,6 @@
 
 ! Site Header Banner
 goodreads.com##div.SiteHeaderBanner
+
+! Site Header Image Banner
+goodreads.com##div.siteHeader__topFullImageContainer
