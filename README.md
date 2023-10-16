@@ -4,7 +4,8 @@ Strip distracting features from sites you use
 ## Filter Lists
 | Site      | Removed Features |
 | --------- | ---------------- |
-| [Feedly](filter-lists/feedly-purifier.txt)    | Paid upsells, third party sharing options, annotations, and recommendations |
+| [DigitalOcean](filter-lists/digitalocean-purifier.txt) | Promotional banners |
+| [Feedly](filter-lists/feedly-purifier.txt) | Paid upsells, third party sharing options, annotations, and recommendations |
 | [Goodreads](filter-lists/goodreads-purifier.txt) | Site banner |
 | [Substack](filter-lists/substack-purifier.txt) | Email subscription upsell |
 | [U.S. Bank](filter-lists/usbank-purifier.txt) | Promotional banners |

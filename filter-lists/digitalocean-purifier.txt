@@ -1,0 +1,5 @@
+! Title: DigitalOcean Purifier
+! Description: A list for your ad blocker to remove unecessary features from DigitalOcean including promotional banners
+! Homepage: https://github.com/matthewdean/site-purifier
+
+digitalocean.com##nav[aria-label="Top Hat"]
