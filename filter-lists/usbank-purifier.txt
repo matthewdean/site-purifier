@@ -13,3 +13,6 @@ usbank.com##div.goals-summary
 
 ! Dashboard > Loans, Lines and Leases Upsell
 usbank.com##div.act-tile:has(div[aria-labelledby="loanandleases"])
+
+! Dashboard > Connect External Accounts
+usbank.com##div.external-accounts__variation_B
