@@ -2,8 +2,8 @@
 ! Description: A list for your ad blocker to remove unecessary features from Feedly including paid upsells, third party sharing options, annotations, and recommendations
 ! Homepage: https://github.com/matthewdean/site-purifier
 
-! Primary Navigation > Bot Icon
-feedly.com##button[aria-label="Track threats and topics using AI Feeds"]
+! Primary Navigation > AI Icon
+feedly.com##button[aria-label="Monitor the web with AI Feeds"]
 
 ! Primary Navigation > Search Icon
 feedly.com##button[aria-label="Power Search"]
@@ -18,8 +18,8 @@ feedly.com##div[title="Annotated"]
 ! Left Navigation > Feedly AI
 feedly.com##div[title="Feedly AI"]
 
-! Left Navigation > Integrations
-feedly.com##div[title="Integrations"]
+! Left Navigation > Integrations & API
+feedly.com##div[title="Integrations & API"]
 
 ! Left Navigation > Favorites
 feedly.com##div.LeftnavHeading:has( > h3:has-text(Favorites))
